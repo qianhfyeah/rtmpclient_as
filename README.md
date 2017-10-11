@@ -1,1 +1,5 @@
-# rtmpclient_as
+# rtmpclient
+
+### simple rtmp player
+
+### write with actionscript
